@@ -1,0 +1,7 @@
+echo "# Desafio-Primeiro-Projeto-no-Github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:EduardoR93/Desafio-Primeiro-Projeto-no-Github.git
+git push -u origin main
